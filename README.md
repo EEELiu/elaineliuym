@@ -1,1 +1,3 @@
-# personal_website
+# Personal Website
+
+Adapted with html5 template
